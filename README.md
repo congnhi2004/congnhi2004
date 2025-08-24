@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I'm Nguyễn Trương Công Nhị
+I am an AI student at The Saigon International University. I am interested in the following topics: Machine Learning, Computer Vision, LLM, and Practical AI Applications.
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=congnhi2004)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**congnhi2004/congnhi2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Cong Nhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=congnhi2004)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [vinh025na@gmail.com](mailto:vinh025na@gmail.com)
+- 🌐 GitHub: [VinhAlth](https://github.com/VinhAlth)
+- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nguyen-quoc-vinh-nqv/) <!-- Replace with actual link -->
